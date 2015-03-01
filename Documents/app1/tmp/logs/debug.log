@@ -1,0 +1,90 @@
+2015-01-19 17:41:06 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/JudgmentsController.php, line 17]
+Trace:
+JudgmentsController::insert() - APP/Controller/JudgmentsController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-19 17:41:08 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/JudgmentsController.php, line 17]
+Trace:
+JudgmentsController::insert() - APP/Controller/JudgmentsController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-19 17:41:11 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/JudgmentsController.php, line 17]
+Trace:
+JudgmentsController::insert() - APP/Controller/JudgmentsController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-19 17:41:12 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/JudgmentsController.php, line 17]
+Trace:
+JudgmentsController::insert() - APP/Controller/JudgmentsController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-19 17:41:14 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/JudgmentsController.php, line 17]
+Trace:
+JudgmentsController::insert() - APP/Controller/JudgmentsController.php, line 17
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-20 10:24:08 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/AnnotationsController.php, line 14]
+Trace:
+AnnotationsController::insert() - APP/Controller/AnnotationsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-20 10:24:43 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/AnnotationsController.php, line 14]
+Trace:
+AnnotationsController::insert() - APP/Controller/AnnotationsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-20 10:27:28 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/AnnotationsController.php, line 14]
+Trace:
+AnnotationsController::insert() - APP/Controller/AnnotationsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-20 10:29:04 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/AnnotationsController.php, line 14]
+Trace:
+AnnotationsController::insert() - APP/Controller/AnnotationsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
+2015-01-20 10:39:36 Notice: Notice (8): Undefined index: val in [/var/www/app/Controller/AnnotationsController.php, line 14]
+Trace:
+AnnotationsController::insert() - APP/Controller/AnnotationsController.php, line 14
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 167
+[main] - APP/webroot/index.php, line 118
+
