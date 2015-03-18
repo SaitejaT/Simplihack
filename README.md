@@ -1,1 +1,2 @@
 #Simlihack
+# spell-corrector
